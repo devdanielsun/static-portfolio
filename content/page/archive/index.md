@@ -1,8 +1,8 @@
 ---
-title: "Archives"
+title: "Projects"
 date: 2025-04-10
 layout: "archives"
-slug: "archives"
+slug: "projects"
 menu:
     main:
         weight: 2
