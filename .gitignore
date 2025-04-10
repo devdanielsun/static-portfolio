@@ -1,8 +1,6 @@
 # Hugo build output
-/public/
-/resources/_gen/
-/exampleSite/public/
-/exampleSite/resources/_gen/
+public
+resources
 
 # Hugo cache
 .hugo_build.lock
