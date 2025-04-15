@@ -1,5 +1,11 @@
 # Static Portfolio
 
+![GitHub License](https://img.shields.io/github/license/devdanielsun/static-portfolio)
+![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/devdanielsun/static-portfolio)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/t/devdanielsun/static-portfolio)
+
+
+
 This is a static portfolio website created using [Hugo](https://gohugo.io/), a fast and flexible static site generator written in Go. It is widely used for creating static websites, blogs, and portfolios due to its speed, simplicity, and support for Markdown and templating.
 
 ## Getting Started
