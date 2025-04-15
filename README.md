@@ -6,7 +6,7 @@
 
 
 
-This is a static portfolio website created using [Hugo](https://gohugo.io/), a fast and flexible static site generator written in Go. It is widely used for creating static websites, blogs, and portfolios due to its speed, simplicity, and support for Markdown and templating.
+This is a static portfolio webapp created using [Hugo](https://gohugo.io/), a fast and flexible static site generator written in Go. It is widely used for creating static websites, blogs, and portfolios due to its speed, simplicity, and support for Markdown and templating.
 
 ## Getting Started
 
